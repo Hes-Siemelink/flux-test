@@ -13,7 +13,7 @@ spec:
         kind: HelmRepository
         name: bitnami
         namespace: nginx
-      version: 15.14.2
+      version: 15.14.1
   interval: 2m0s
   targetNamespace: nginx
   values:
